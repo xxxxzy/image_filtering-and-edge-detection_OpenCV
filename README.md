@@ -5,4 +5,4 @@
 * Image : lenna.jpg
 
 ## Description
-The program implement Gaussian filtering, Gradient magnitude and Laplacian-Gaussian filtering with &sigma; = 1,2,4,8 and Canny edge detection.
+The program implement Gaussian filtering, Gradient magnitude and Laplacian-Gaussian filtering with &sigma; = 1,2,4,8 and Canny edge detection with image lenna.jpg. The output images are in the file: result image.
